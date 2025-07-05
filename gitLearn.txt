@@ -5,3 +5,4 @@
 5.提交版本 git commit -m '备注'
 6.查看提交记录 git log ,查看版本历史 git reflog
 7.跳转指定版本 git reset --hard 版本号
+8.这是冲突2
